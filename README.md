@@ -14,8 +14,8 @@ http://bubblesmash.rf.gd/
  
 #### Screenshot:
 
-<img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot.png">
-<img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot2.png">
+<img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot.png" height="500px" width="500px">
+<img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot2.png" height="500px" width="500px">
 
 
 
