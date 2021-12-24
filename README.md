@@ -16,6 +16,6 @@ http://bubblesmash.rf.gd/
 
 <img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot.png" height="500px" width="500px"> <img src="https://github.com/Rajspeaks/Bubble-Shooter/blob/main/screenshot2.png" height="500px" width="500px">
 
-
+Play mode: You can play it in all devices but better view is in Desktop.
 
 &copy; Rajdeep Das
