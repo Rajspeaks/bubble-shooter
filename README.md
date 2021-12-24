@@ -1,4 +1,4 @@
-# Bubble Shooter- Tripple Smash
+# Bubble Shooter- Triple Smash
 It's a bubble shooting game made of HTML, JavaScript.
 
 ## Link:
