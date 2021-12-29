@@ -3,7 +3,7 @@ It's a bubble shooting game made of HTML, JavaScript.
 
 ## Link:
 
-http://bubblesmash.rf.gd/
+https://rajspeaks.github.io/bubble-shooter
 
 ### Instruction:
 
